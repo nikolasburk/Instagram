@@ -1,6 +1,6 @@
 # Instagram
 
-This repository contains a GraphQL schema that can be used to build anapplication similar to Instagram.
+This repository contains a GraphQL schema that can be used to build an application similar to Instagram.
 
 You can use it with [`graphql-up`](https://graph.cool/graphql-up/), a tool that let's you quickly get started with a GraphQL API. You can install it via [npm](https://www.npmjs.com/package/graphql-up).
 
