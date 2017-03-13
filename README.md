@@ -11,14 +11,14 @@ npm install -g graphql-up # install graphql-up, if you haven't already
 Then it's as simple as calling the tool from the command line and passing in the schema file:
 
 ```
-git clone https://github.com/nikolasburk/ConferencePlanner.git
-cd ConferencePlanner
-graphql-up conference_planner.schema
+git clone https://github.com/nikolasburk/Instagram.git
+cd Instagram
+graphql-up instagram.schema
 ```
 
 Or if you don't want to clone the repository:
 
 ```
-graphql-up https://github.com/nikolasburk/ConferencePlanner/blob/master/conference_planner.schema
+graphql-up https://github.com/nikolasburk/Instagram/blob/master/instagram.schema
 ```
 
